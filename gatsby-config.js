@@ -13,7 +13,7 @@ module.exports = {
         background_color: "#1b1b1d",
         theme_color: "#1b1b1d",
         display: "minimal-ui",
-        icon: "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCIgdmlld0JveD0iMCAwIDEyOCAxMjgiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIxMjgiIGhlaWdodD0iMTI4IiBmaWxsPSIjMDAwMDAwIi8+Cjwvc3ZnPgo=",
+        icon: "src/images/icon.png"
       },
     },
     {
