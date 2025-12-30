@@ -9,7 +9,7 @@ const DesktopHomeRight = () => (
     <div className="darken flex flex-col gap-y-8 md:gap-y-3">
       <div className="flex flex-col bg-box-bg p-10 transition-all duration-300 md:hover:scale-110">
         <h3 className="text-[1.3rem] font-semibold text-white">
-          Concrete Compressive Strength Prediction
+          Concrete Compressive Strength Predictor
         </h3>
 
         <p className="mb-3 mt-1 text-xs font-semibold leading-5 tracking-wider text-light-grey">
@@ -17,9 +17,10 @@ const DesktopHomeRight = () => (
         </p>
 
         <p className="my-3 min-h-[5rem] text-xs font-semibold tracking-wider text-dark-grey md:h-16">
-          Reproducible machine learning system for regression and classification,
-          benchmarking classical models and neural networks using modular pipelines
-          and MLflow-based experiment tracking.
+          Python-based machine learning system for regression and classification,
+          implementing modular data pipelines, model training and evaluation workflows,
+          and experiment tracking with MLflow to support reproducibility and comparison
+          across classical models and neural networks.
         </p>
 
         <div className="flex items-center gap-x-4 my-8">
@@ -34,6 +35,7 @@ const DesktopHomeRight = () => (
           <span className="text-xs text-dark-grey">Case Study Available</span>
         </div>
       </div>
+
 
       <div className="flex flex-col bg-box-bg p-10 transition-all duration-300 md:hover:scale-110">
         <h3 className="text-[1.3rem] font-semibold text-white">Re-Think</h3>
